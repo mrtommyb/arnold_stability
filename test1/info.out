@@ -1,0 +1,66 @@
+
+                MERCURY 7_0
+
+           Integration parameters
+           ----------------------
+
+   Algorithm: Hybrid symplectic integrator (mixed coordinates)  
+
+   Integration start epoch:               0.0000000 days
+   Integration stop  epoch:     1.8262500000000E+12
+   Output interval:                  104010.000
+
+   Initial timestep:          0.0755 days 
+   Accuracy parameter:       1.0000E-11
+   Central mass:             8.0000E-02 solar masses
+   J2:                       0.0000E+00
+   J4:                       0.0000E+00
+   J6:                       0.0000E+00
+   Ejection distance:        1.0000E+02 AU
+   Radius of central body:   5.4400E-04 AU
+
+   Stop after a close encounter:        yes
+   Allow collisions:                    yes
+   Include fragmentation:               no
+   Include user-defined force routine:  no 
+
+   Number of Big bodies:        7
+   Number of Small bodies:      0
+   Minimum fragment mass:       2.8000E-10 solar masses
+
+
+           Integration details
+           -------------------
+
+   Initial energy:           -7.91951E-09 solar masses AU^2 day^-2
+   Initial angular momentum:  6.83745E-09 solar masses AU^2 day^-1
+
+ WARNING: No Small bodies are present.
+
+   Integrating massive bodies and particles to the same epoch.
+
+   Beginning the main integration.
+
+
+ Updating output codes at          0.000 years
+   adding: PL1                1
+   adding: PL2                2
+   adding: PL3                3
+   adding: PL4                4
+   adding: PL5                5
+   adding: PL6                6
+   adding: PL7                7
+
+ PL1      collided with the central body at          248.3642349 years
+ WARNING: Stopping integration due to an encounter between PL2     ,PL6     
+          at          276.046 years
+
+ PL6      merged with PL2      at           276.046 years
+
+   Integration complete.
+
+   Fractional energy change due to integrator:  1.32077E-02
+   Fractional angular momentum change:          8.37640E-12
+
+   Fractional energy change due to collisions/ejections:  3.48162E-01
+   Fractional angular momentum change:                    0.00000E+00

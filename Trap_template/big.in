@@ -1,0 +1,20 @@
+)O+_06 Big-body initial data  (WARNING: Do not delete this line!!)
+) Lines beginning with ) are ignored.
+)---------------------------------------------------------------------
+style (Cartesian, Asteroidal, Cometary) = Ast
+epoch (in days) = 0
+)---------------------------------------------------------------------
+ PL1  m={mass1Solar}   d={rho1Cgs}   
+ {semi1AU} {ecc1} {inc1} {omega1} {capOmega1} {meanAnom1}  0. 0. 0. 
+ PL2  m={mass2Solar}   d={rho2Cgs}   
+ {semi2AU} {ecc2} {inc2} {omega2} {capOmega2} {meanAnom2}  0. 0. 0. 
+ PL3  m={mass3Solar}   d={rho3Cgs}   
+ {semi3AU} {ecc3} {inc3} {omega3} {capOmega3} {meanAnom3}  0. 0. 0.
+ PL4  m={mass4Solar}   d={rho4Cgs}
+ {semi4AU} {ecc4} {inc4} {omega4} {capOmega4} {meanAnom4}  0. 0. 0. 
+ PL5  m={mass5Solar}   d={rho5Cgs}
+ {semi5AU} {ecc5} {inc5} {omega5} {capOmega5} {meanAnom5}  0. 0. 0. 
+ PL6  m={mass6Solar}   d={rho6Cgs}
+ {semi6AU} {ecc6} {inc6} {omega6} {capOmega6} {meanAnom6}  0. 0. 0. 
+ PL7  m={mass7Solar}   d={rho7Cgs}
+ {semi7AU} {ecc7} {inc7} {omega7} {capOmega7} {meanAnom7}  0. 0. 0. 
